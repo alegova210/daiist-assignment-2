@@ -14,3 +14,6 @@ runs/
 
 # Never commit your API key
 .env
+
+# COCO weights Ultralytics downloads for the zero-shot baseline (re-downloaded automatically)
+/yolo11n.pt
