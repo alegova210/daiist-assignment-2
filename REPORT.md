@@ -445,10 +445,4 @@ assuming 90%.
 
 ## Generative AI use disclosure
 
-I used Claude throughout this assignment. It helped me compare datasets on Roboflow Universe and check their splits and classes
-before choosing one, and it proposed the structure of the business framing and the cost model, which I reviewed and adjusted. I
-first did the work in a Google Colab notebook (mostly in Spanish, following the professor's YOLO card detector and vision API
-inspection notebooks), where Claude wrote most of the code and I ran every step, read the outputs and decided. Claude then
-reorganised that code into this repository (`train.ipynb`, `app.ipynb`, `costs.py`), built the dashboard, did the git and GitHub
-steps on my computer while I watched, and drafted this report from my notes and results in English. I asked it to explain every
-part I did not understand, especially the cost formula, the three-way design and why precision changes with the base rate.
+I used Claude throughout this assignment. It helped me compare datasets on Roboflow Universe and check their splits and classes before choosing one, and help me decide the thresholds for the problem framing. I first did the work in a Google Colab notebook (mostly in Spanish, following the professor's YOLO card detector and vision API inspection notebooks). Claude help me write the code, and I ran every step, read the outputs and decided. Claude then reorganised that code into this repository, help me build the dashboard, did the git and GitHub steps on my computer while I watched, and drafted this report from my notes and results in English.
